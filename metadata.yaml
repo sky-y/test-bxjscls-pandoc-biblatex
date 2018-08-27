@@ -1,0 +1,13 @@
+---
+title: Markdownライティング入門
+author: 藤原 惟
+classoption:
+  - b5j
+  - pandoc
+  - openany
+  - textwidth-limit=50
+fontsize: 10pt
+lang: ja
+documentclass: bxjsbook
+listings: true
+---

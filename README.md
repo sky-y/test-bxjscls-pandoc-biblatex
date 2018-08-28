@@ -114,7 +114,7 @@ cat-version: 1.9b
 上記の環境が整っていれば、このリポジトリを`git clone`して、サンプルを動かすことができるはずです。
 
 ```
-$ git clone test-bxjscls-pandoc-biblatex
+$ git clone https://github.com/sky-y/test-bxjscls-pandoc-biblatex.git
 $ cd test-bxjscls-pandoc-biblatex
 $ make all
 ```

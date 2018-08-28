@@ -84,13 +84,11 @@ TeXLive 2018のBXjscls（最新版）では、上記の問題点が改善され�
 - **TeXLive 2018**（最新版）
     - LuaLaTeX ([LuaTeX-ja](https://ja.osdn.net/projects/luatex-ja/wiki/LuaTeX-ja%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9))
     - [BXjscls](https://texwiki.texjp.org/?BXjscls) (bxjsbook)
-    - **BibLaTeX**
+    - BibLaTeX (biber)
     - 上記は `scheme-full` ディストリビューションですべてインストールできます（**強く推奨**）
 - [Pandoc](http://pandoc.org/) 2.2.1
-- Pandocフィルタ
-    - [pandoc-citeproc](https://github.com/jgm/pandoc-citeproc) 0.14.3.1
-        - Pandocで参考文献リストの生成をするためのフィルタ
 
+※ Pandocフィルタ（`pandoc-citeproc`など）は使っていません。
 
 ## TeXLiveのアップデート
 
